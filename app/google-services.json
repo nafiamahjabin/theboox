@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018789372676",
+    "firebase_url": "https://theboox-306fa.firebaseio.com",
+    "project_id": "theboox-306fa",
+    "storage_bucket": "theboox-306fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018789372676:android:c91f57c8a56568d40aa651",
+        "android_client_info": {
+          "package_name": "com.example.boox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018789372676-up5b0j0gsn2gdhca8le1es82hdsu6q5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNS5uk0Orrb66xNz-SwopV4CtAjkjoxbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018789372676-up5b0j0gsn2gdhca8le1es82hdsu6q5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
